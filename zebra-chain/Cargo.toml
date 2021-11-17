@@ -33,7 +33,7 @@ equihash = { git = "https://github.com/ZcashFoundation/librustzcash.git", branch
 displaydoc = "0.1.6"
 
 [dev-dependencies]
-proptest = "0.10"
+proptest = "1.0"
 proptest-derive = "0.2.0"
 zebra-test = { path = "../zebra-test/" }
 color-eyre = "0.5"
