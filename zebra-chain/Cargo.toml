@@ -24,7 +24,7 @@ secp256k1 = { version = "0.17.2", features = ["serde"] }
 serde = { version = "1", features = ["serde_derive", "rc"] }
 sha2 = { version = "0.8.2", features=["compress"] }
 thiserror = "1"
-x25519-dalek = { version = "0.6", features = ["serde"] }
+x25519-dalek = { version = "1.2", features = ["serde"] }
 serde-big-array = "0.3.0"
 # ZF deps
 ed25519-zebra = "1.0"
