@@ -16,7 +16,7 @@ hex = "0.4.2"
 # indexmap has rayon support for parallel iteration,
 # which we don't use, so disable it to drop the dependencies.
 indexmap = { version = "1.4", default-features = false }
-pin-project = "0.4"
+pin-project = "1.0"
 proptest = "0.10"
 proptest-derive = "0.2.0"
 rand = "0.7"
