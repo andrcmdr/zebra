@@ -23,7 +23,7 @@ tracing-log = "0.1"
 
 hex = "0.4.2"
 
-hyper = "0.13.6"
+hyper = "0.14.20"
 
 tower = "0.3"
 
