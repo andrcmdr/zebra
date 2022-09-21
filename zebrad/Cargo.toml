@@ -41,4 +41,4 @@ zebra-consensus = { path = "../zebra-consensus/" }
 
 [dev-dependencies]
 abscissa_core = { version = "0.5", features = ["testing"] }
-once_cell = "1.4"
+once_cell = "1.15"
